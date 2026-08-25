@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C_lang-00599C?style=flat&logo=c&logoColor=white)
 
-Exercícios de código que realizo diariamente na plataforma [Exercism](https://exercism.org/profiles/IsaacMartins-code) a fim de exercitar constantemente minha lógica de programação e minha capacidade de solução de problemas. Neste readme destaco os principais desafios que realizei na plataforma.
+Exercícios de código da plataforma [Exercism](https://exercism.org/profiles/IsaacMartins-code) realizados sem auxílio de IA, a fim de exercitar constantemente minha lógica de programação e minha capacidade de solução de problemas. Neste readme destaco os principais desafios que realizei na plataforma.
 
 ## 1. Diamond kata💎 - [ver o código](https://github.com/splinterdev/exercism-backup/blob/main/solutions/java/diamond/1/src/main/java/DiamondPrinter.java)
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
